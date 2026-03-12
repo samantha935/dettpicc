@@ -1,0 +1,2 @@
+# dettpicc
+tech development site
